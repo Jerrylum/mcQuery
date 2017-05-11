@@ -1,0 +1,5 @@
+name: mcQuery
+main: mcQuery.mcQuery
+version: 1.8
+author: Jerry
+description: The Write Less, Do More, Minecraft Plugin Library.
